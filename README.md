@@ -8,7 +8,7 @@
    
 
   ![Your GitHub stats](https://github.com/VenkatKiran326)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkatKiran326&layout=compact&theme=radical)
 
 [![LinkedIn](https://www.linkedin.com/in/venkat-kiran-frontend)](https://www.linkedin.com/in/your-profile/)
 <!--[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/your-channel) -->
