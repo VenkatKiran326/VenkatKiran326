@@ -7,7 +7,7 @@
 - 📫 How to reach me dm or 
    
 
-  ![Your GitHub stats](https://github.com/VenkatKiran326)
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=VenkatKiran326&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkatKiran326&layout=compact&theme=radical)
 
 [![LinkedIn](https://www.linkedin.com/in/venkat-kiran-frontend)](https://www.linkedin.com/in/your-profile/)
