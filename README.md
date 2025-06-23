@@ -7,10 +7,11 @@
 - 📫 How to reach me dm or 
    
 
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=VenkatKiran326&show_icons=true&theme=radical)
+  <!--![My GitHub stats](https://github-readme-stats.vercel.app/api?username=VenkatKiran326&show_icons=true&theme=radical) -->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenkatKiran326&layout=compact&theme=radical)
 
-[![LinkedIn](https://www.linkedin.com/in/venkat-kiran-frontend)](https://www.linkedin.com/in/your-profile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkat-kiran-frontend/)
+
 <!--[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/your-channel) -->
 <!--[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@your-profile) -->
 
